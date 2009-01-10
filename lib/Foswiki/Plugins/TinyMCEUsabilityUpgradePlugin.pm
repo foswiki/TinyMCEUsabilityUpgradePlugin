@@ -16,7 +16,7 @@
 # http://www.gnu.org/copyleft/gpl.html
 
 # =========================
-package Foswiki::Plugins::TinyMCEUsabiltyUpgradePlugin;
+package Foswiki::Plugins::TinyMCEUsabilityUpgradePlugin;
 
 # =========================
 use strict;
@@ -44,7 +44,7 @@ $SHORTDESCRIPTION =
 'Introducing better usability to the TinyMCEPlugin with using new Link-Dialogs, Autocompletition..';
 
 # Name of this Plugin, only used in this module
-$pluginName = 'TinyMCEUsabiltyUpgradePlugin';
+$pluginName = 'TinyMCEUsabilityUpgradePlugin';
 
 # =========================
 
